@@ -22,6 +22,6 @@ Tenho tambem um [Currículo Interativo](https://bit.ly/Vinicius_PF). Além de ma
 
 ### Contatos:
 <div>
-<a href = "mailto:vinicius-pf@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:vinicius-pf@outlook.com"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/outlook_button_icon_151845.png" target="_blank"></a>
 <a href="https://www.linkedin.com/in/viniciuspf/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
