@@ -1,12 +1,14 @@
 ## Vinicius Pereira Fernandes
 
-Olá e bem vindo ao meu github! Sou Vinicius, tenho 28 anos e estudo análise de dados e business inteligence.
+Olá e bem vindo ao meu github! Sou Vinicius, tenho 28 anos e sou de Florianópolis.
 
-Na faculdade eu estudei mecatrônica industrial e fui monitor de cálculo. 
+Na faculdade, estudei mecatrônica industrial e fui monitor de cálculo. Agora, após 3 anos como instrutor de idiomas, estou estudando ciência e análise de dados para ingressar no mercado de trabalho. Para isso, estou fazendo cursos técnicos pela [Alura](https://www.alura.com.br), focando na área de business inteligence.
 
-Atualmente estou aprendendo:
+Tenho tambem um [Currículo Interativo](https://bit.ly/Vinicius_PF). Além de mais informações sobre a minha formação, também tem links para meus projetos mais recentes.
 
 
+
+### Atualmente estou aprendendo:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
 
 
@@ -19,11 +21,7 @@ Atualmente estou aprendendo:
 </div>
 
 ### Contatos:
-
 <div>
-<a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-<a href = "mailto:contato@seu-usuário-aqui"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href = "mailto:vinicius-pf@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/viniciuspf/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
