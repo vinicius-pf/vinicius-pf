@@ -1,10 +1,10 @@
 ## Vinicius Pereira Fernandes
 
-Olá e bem vindo ao meu github! Sou Vinicius, tenho 28 anos e sou de Florianópolis.
+Hello and welcome to my GitHub! I am Vinicius and was born in Florianópolis, Brazil. Currently I am 28 years old.
 
-Na faculdade, estudei mecatrônica industrial e fui monitor de cálculo. Agora, após 3 anos como instrutor de idiomas, estou estudando ciência e análise de dados para ingressar no mercado de trabalho. Para isso, estou fazendo cursos técnicos pela [Alura](https://www.alura.com.br), focando na área de business inteligence.
+I majored in Mechatronics and during my studies I was a Calculus monitor. Now, after 3 years as an English teacher, I am studying data science and data analysis at [Alura](https://www.alura.com.br), focusing on business inteligence.
 
-Tenho tambem um [Currículo Interativo](https://bit.ly/Vinicius_PF). Além de mais informações sobre a minha formação, também tem links para meus projetos mais recentes.
+I also have an [Interactive Resume](https://bit.ly/Vinicius_PF) in Portuguese. There, you can find more information about my studies as well as links to my most recent projects.
 
 Other Languages: [English](https://github.com/vinicius-pf/vinicius-pf/blob/main/README_EN.md)
 
