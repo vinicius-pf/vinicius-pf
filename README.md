@@ -6,7 +6,7 @@ Na faculdade, estudei mecatrônica industrial e fui monitor de cálculo. Agora, 
 
 Tenho tambem um [Currículo Interativo](https://bit.ly/Vinicius_PF). Além de mais informações sobre a minha formação, também tem links para meus projetos mais recentes.
 
-Other Languages: [English](https://github.com/vinicius-pf/vinicius-pf/blob/main/README_EN.md)
+I also have this file in [English](https://github.com/vinicius-pf/vinicius-pf/blob/main/README_EN.md)
 
 ### O que estou aprendendo agora?
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
