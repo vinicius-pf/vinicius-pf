@@ -16,8 +16,8 @@ I also have this file in [English](https://github.com/vinicius-pf/vinicius-pf/bl
 
 <div>
 <a href="https://github.com/vinicius-pf">
-<img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-pf&layout=compact&langs_count=7&theme=dark"/>
-<img height="90em" src="https://github-readme-stats.vercel.app/api?username=vinicius-pf&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-pf&layout=compact&langs_count=7&theme=dark"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=vinicius-pf&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
 ### Como você pode falar comigo?
