@@ -6,7 +6,7 @@ Na faculdade, estudei mecatrônica industrial e fui monitor de cálculo. Agora, 
 
 Tenho tambem um [Currículo Interativo](https://bit.ly/Vinicius_PF). Além de mais informações sobre a minha formação, também tem links para meus projetos mais recentes.
 
-I also have this file in [English](https://github.com/vinicius-pf/vinicius-pf/blob/main/README_EN.md)
+Other Languages: [English](https://github.com/vinicius-pf/vinicius-pf/blob/main/README_EN.md)
 
 ### O que estou aprendendo agora?
 
