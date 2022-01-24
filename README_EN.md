@@ -6,7 +6,7 @@ I majored in Mechatronics and during my studies I was a Calculus monitor. Now, a
 
 I also have an [Interactive Resume](https://bit.ly/Vinicius_PF) in Portuguese. There, you can find more information about my studies as well as links to my most recent projects.
 
-Other Languages: [English](https://github.com/vinicius-pf/vinicius-pf/blob/main/README_EN.md)
+Other Languages: [Portuguese](https://github.com/vinicius-pf/vinicius-pf/blob/main/README.md)
 
 ### What am I learning right now?
 
